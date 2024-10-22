@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/randomgifcustomhookreact/static/css/main.a8e5d394.css",
+    "main.js": "/randomgifcustomhookreact/static/js/main.164198ad.js",
+    "index.html": "/randomgifcustomhookreact/index.html",
+    "main.a8e5d394.css.map": "/randomgifcustomhookreact/static/css/main.a8e5d394.css.map",
+    "main.164198ad.js.map": "/randomgifcustomhookreact/static/js/main.164198ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e5d394.css",
+    "static/js/main.164198ad.js"
+  ]
+}
